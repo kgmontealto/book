@@ -1,0 +1,2 @@
+This is a msg addeb by echo
+Hello \ just a test
